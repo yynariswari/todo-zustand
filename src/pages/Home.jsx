@@ -18,9 +18,9 @@ export default function Home() {
         <option value="Guest">Guest</option>
         <option value="Adit Pratama">Adit Pratama</option>
         <option value="Rani Lestari">Rani Lestari</option>
-        <option value="Bima Saputra">Salim</option>
-        <option value="Salsa Ayu">Salim</option>
-        <option value="Dito Wirawan">Salim</option>
+        <option value="Bima Saputra">Bima Saputra</option>
+        <option value="Salsa Ayu">Salsa Ayu</option>
+        <option value="Dito Wirawan">Dito Wirawan</option>
       </select>
 
       <ul>

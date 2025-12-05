@@ -17,8 +17,6 @@ export default function Detail() {
       <h2>{todo.title}</h2>
       <p>{todo.description}</p>
       <p>Votes: {todo.votes}</p>
-
-      <button onClick={() => voteTodo(todo.id)}>👍 Vote</button>
     </div>
   );
 }
